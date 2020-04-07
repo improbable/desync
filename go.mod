@@ -1,4 +1,4 @@
-module github.com/folbricht/desync
+module github.com/improbable/desync
 
 go 1.11
 
